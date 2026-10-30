@@ -12,6 +12,12 @@ Keyboard layout indicator for a Window Manager panel (e.g., `tint2`)
 
 `release.sh` or `debug.sh`
 
+## Make ##
+
+```sh
+make install PREFIX=$HOME/.local
+```
+
 ## Prior art ##
 
 [src](https://gist.github.com/fikovnik/ef428e82a26774280c4fdf8f96ce8eeb)
